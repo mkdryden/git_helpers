@@ -1,0 +1,6 @@
+RELEASE-VERSION
+*.pyc
+.ropeproject
+setup.py
+paver-minilib.zip
+dist/*
