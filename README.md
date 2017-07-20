@@ -1,4 +1,3 @@
-![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/git_helpers?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/git_helpers?branch=master&svg=true)
 # `git_helpers` #
 
 Wrapper API around `git` command-line utilities.
